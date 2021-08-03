@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/styledComponent.github.io/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/styledComponent.github.io/static/js/main.4195e4e8.chunk.js",
+    "main.js.map": "/styledComponent.github.io/static/js/main.4195e4e8.chunk.js.map",
+    "runtime-main.js": "/styledComponent.github.io/static/js/runtime-main.e33d2b12.js",
+    "runtime-main.js.map": "/styledComponent.github.io/static/js/runtime-main.e33d2b12.js.map",
+    "static/js/2.8fd41d7d.chunk.js": "/styledComponent.github.io/static/js/2.8fd41d7d.chunk.js",
+    "static/js/2.8fd41d7d.chunk.js.map": "/styledComponent.github.io/static/js/2.8fd41d7d.chunk.js.map",
+    "index.html": "/styledComponent.github.io/index.html",
+    "precache-manifest.85e6e5f613ceda05dd94f22a46e3ad3e.js": "/styledComponent.github.io/precache-manifest.85e6e5f613ceda05dd94f22a46e3ad3e.js",
+    "service-worker.js": "/styledComponent.github.io/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/styledComponent.github.io/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.8fd41d7d.chunk.js.LICENSE.txt": "/styledComponent.github.io/static/js/2.8fd41d7d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e33d2b12.js",
+    "static/js/2.8fd41d7d.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.4195e4e8.chunk.js"
+  ]
+}
